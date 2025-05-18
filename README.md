@@ -6,5 +6,12 @@ You can click the Preview link to take a look at your changes.
 
 def _laxmihere_{
            print("Heyo, Have a good day.")
+           print("👋 Hi, I’m @lxamign
+👀 I’m interested in ...ML/AI and User Experiences.
+🌱 I’m currently learning ...RNNs
+💞️ I’m looking to collaborate on ...hackathons to create cool stuff
+📫 How to reach me ...mail to : bumfuzzlex@gmail.com
+😄 Pronouns: ...she/her
+⚡ Fun fact: ...I can learn and understand anything...literally anything.")
            }
            
